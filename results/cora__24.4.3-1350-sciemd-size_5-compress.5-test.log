@@ -1,0 +1,306 @@
+experName ....  24.4.3-1350-sciemd-size_5-compress.5-test
+Processing index 1794...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exists an interdisciplinary multidimensional gradation on published studies of neocortex, with one primary dimension of mathematical physics represented by two extremes. At one extreme, there is much scientifically unsupported talk of chaos and quantum physics being responsible for many important macroscopic neocortical processes (involving many thousands to millions of neurons) (Wilczek, 1994). At another extreme, many non-mathematically trained neuroscientists uncritically lump all neocortical mathematical theory into one file, and consider only statistical averages of citations for opinions on the quality of that research (Nunez, 1995). In this context, it is important to appreciate that Wright and Liley (W&L) report on their scientifically sound studies on macroscopic neocortical function, based on simulation and a blend of sound theory and reproducible experiments. However, their pioneering work, given the absence of much knowledge of neocortex at this time, is open to criticism, especially with respect to their present inferences and conclusions. Their conclusion that EEG data exhibit linear near-equilibrium dynamics may very well be true, but only in the sense of focusing only on one local minima, possibly with individual-specific and physiological-state dependent 
+Title: Title: NONLINEAR NONEQUILIBRIUM NONQUANTUM NONCHAOTIC STATISTICAL MECHANICS OF NEOCORTICAL INTERACTIONS  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Evaluating and Improving Steady State Evolutionary Algorithms on Constraint Satisfaction Problems  
+Abstract The work in progress reported Wright & Liley shows great promise primarily However their tentative conclusion macroscopic neocortex may considered (approximately a linear near-equilibrium system premature does correspond tentative conclusions At exis
+Paper 3  Title: Application of statistical mechanics methodol- ogy to term-structure bond-pricing models, Mathl. Comput. Modelling Application of
+Abstract The work in progress reported Wright & Liley shows great promise primarily However their tentative conclusion macroscopic neocortex may considered (approximately a linear near-equilibrium system premature does correspond tentative conclusions At exis
+Label: Neural Networks
+Paper 4  Title: Replicability of Neural Computing Experiments  
+Abstract If an experiment requires statistical analysis establish a result one do a better experiment Ernest Rutherford 1930 Most proponents cold fusion reporting excess heat their electrolysis experiments claiming one its irreproducibility | 1993 78 Abstract Amid ever
+Label: Neural Networks
+Paper 5  Title: MULTIPLE SCALES OF BRAIN-MIND INTERACTIONS  
+Abstract Posner and Raichle's Images Mind and very Some aws as a scientific publication: ( the accuracy the linear subtraction method PET is subject scrutiny further research at finer spatial-temporal resolutions accuracy the experimental paradigm EEG complementary studies Images (Posner
+Paper 6  Title: Statistical mechanics of neocortical interactions: Training and testing canonical momenta indicators of EEG  
+Abstract A series papers developed a statistical mechanics neocortical interactionsSMNI deriving aggregate behavior experimentally observed columns statistical electrical-chemical properties synaptic interactions While not useful yield insights at the single neuron level SMNI describing short-ter
+Label: Neural Networks
+Paper 7  Title: Book Review  Introduction to the Theory of Neural Computation Reviewed by: 2  
+Abstract Neural computation, also connectionism parallel distributed processing neural network modeling or brain-style computation grown Despite this explosion and ultimately impressive applications a dire need a concise introduction from a theoretical perspective analyzing the strengths connectionist app
+Paper 8  Title: Studies of Neurological Transmission Analysis using Hierarchical Bayesian Mixture Models  
+Abstract Hierarchically structured mixture studied inference on neural synaptic transmission characteristics mammalian, Mixture structures arise due uncertainties governing electro-chemical stimulation individual neuro-transmitter release sites at nerve junc
+Paper 9  Title: Coevolving Communicative Behavior in a Linear Pursuer-Evader Game  
+Abstract The pursuer-evader (PE) game recognized an important domain robust adaptive behavior protean behavior (Miller Cliff 1994 Nevertheless the potential the game largely unrealized due methodological hurdles in coevolutionary simulation raised PE; versions optimal solutions (Isaacs 1965 closed
+Paper 10  Title: A Brief History of Connectionism  
+Abstract: Connectionist research firmly within especially cognitive science This diversity, however created which makes connectionist researchers remain aware recent advances let understand the field developed This paper attempts address this p
+Paper 11  Title: Models of perceptual learning in vernier hyperacuity  
+Abstract Performance human subjects early visual processing tasks improves practice HyperBF networks (Poggio Girosi 1990 constitute understanding such improvement or perceptual learning the class tasks known visual hyperacuity The present article two issues raised the rece
+Paper 12  Title: Computational Learning in Humans and Machines  
+Abstract In research machine learning computational models We focus initially concept induction examining five main approaches then consider learning sequential behaviors After this compare the rhetoric that sometimes the machine learning and psychological literature with
+Label: Case Based
+Paper 13  Title: Perceptual Development and Learning: From Behavioral, Neurophysiological, and Morphological Evidence To Computational Models  
+Abstract An intelligent system has to adapting It therefore, ought capable learning its perceptual interactions This requires plasticity its structure Any attempt model the perceptual capabilities a living system or, construct a synthetic system comparable
+Paper 14  Title: In Defense of C4.5: Notes on Learning One-Level Decision Trees  
+Abstract We discuss Holte's recently-published article which demonstrated on the most commonly used data very simple classification rules almost as decision trees produced Quinlan's C4.5 consider, what the future top-down induction To an extent Holte questioned the sen
+Paper 15  Title: On the Computational Utility of Consciousness  
+Abstract We propose human consciousness This framework integrates many existing theoretical perspectives yet sufficiently concrete simulation experiments We do attempt explain qualia (subjective experience ask differences the cognitive information processing system when consc
+Label: Neural Networks
+Paper 16  Title: A COMPARISON OF Q-LEARNING AND CLASSIFIER SYSTEMS  
+Abstract Reinforcement Learning problems an autonomous agent acting improves progressively maximizing a function calculated just on a succession scalar responses received Q-learning and classifier systems (CS two methods among used solve Notwithstan
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 455...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: A learning agent employing reinforcement learning is hindered because it only receives the critic's sparse and weakly informative training information. We present an approach in which an automated training agent may also provide occasional instruction to the learner in the form of actions for the learner to perform. The learner has access to both the critic's feedback and the trainer's instruction. In the experiments, we vary the level of the trainer's interaction with the learner, from allowing the trainer to instruct the learner at almost every time step, to not allowing the trainer to respond at all. We also vary a parameter that controls how the learner incorporates the trainer's actions. The results show significant reductions in the average number of training trials necessary to learn to perform the task.
+Title: Title: Learning from an Automated Training Agent  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: An Introspection Approach to Querying a Trainer  
+Abstract: Technical Report 9613 January 22 Abstract introduces the Introspection Approach employing decide ask instruction When using our approach find trainer's responses produced significantly faster learners by having ask aid randomly G
+Paper 3  Title: Modeling the Student with Reinforcement Learning  
+Abstract We describe a methodology enabling an intelligent teaching system make high level strategy decisions on low level student modeling information This framework less costly construct superior hand coding teaching strategies as responsive In order accomplish reinforcement learning associate sup
+Paper 4  Title: Reinforcement Learning with Imitation in Heterogeneous Multi-Agent Systems  
+Abstract The application decision making learning algorithms presents many interestingresearch challenges Among these the ability agents learn act by or We describe, the IQ-algorithm integrates imitation Q-learning, a Q-learner uses the observations it
+Paper 5  Title: Machine Learning,  Creating Advice-Taking Reinforcement Learners  
+Abstract Learning reinforcements creating intelligent agents However reinforcement learning usually training episodes We present and a design addresses allowing a connectionist Q-learner accept advice given, a natural manner In our approach advice-g
+Paper 6  Title: Improving Generalization with Active Learning  
+Abstract Active learning differs " from examples assumes what part receives information In some situations active learning provably that learning examples alone giving better generalization for a fixed number training examples In this paper consider pro
+Paper 7  Title: Learning Optimal Dialogue Strategies: A Case Study of a Spoken Dialogue Agent for Email  
+Abstract by a dialogue agent learn choose an optimal dialogue strategy While it widely agreed dialogue strategies should formulated terms communicative intentions little work automatically optimizing an agent's choices when there multiple ways realize Our method a co
+Label: Reinforcement Learning
+Paper 8  Title: Learning to Predict User Operations for Adaptive Scheduling  
+Abstract Mixed-initiative systems present the challenge finding an effective level interaction humans computers Machine learning presents in systems automatically adapt accommodate different users In learning user models an adaptive assistant crisis sched
+Paper 9  Title: CABINS A Framework of Knowledge Acquisition and Iterative Revision for Schedule Improvement and Reactive Repair  
+Abstract Mixed-initiative systems present the challenge finding an effective level interaction humans computers Machine learning presents in systems automatically adapt accommodate different users In learning user models an adaptive assistant crisis sched
+Paper 10  Title: An unsupervised neural network for low-level control of a wheeled mobile robot: noise resistance, stability,
+Abstract We introduced a neural network mobile robot controllerNETMORC the forward and inverse odometry a differential drive robot through After an initial learning phase the controller move the robot an arbitrary stationary or moving target while noise other forms disturbance su
+Paper 11  Title: Exploration and Model Building in Mobile Robot Domains  
+Abstract I present first results COLUMBUS an autonomous mobile robot operates initially unknown, structured environments Its task explore model efficiently collisions obstacles uses an instance-based learning technique modeling its environment generalized via th
+Label: Reinforcement Learning
+Paper 12  Title: Abstract  
+Abstract We describe (ATS dynamically models a students processes can specialized tutoring adapted a students knowledge state and learning style The student modeling component, ML-Modeler uses ( emulate the students novice transition ML-Modeler infers w
+Paper 13  Title: Abstract  
+Abstract We describe (ATS dynamically models a students processes can specialized tutoring adapted a students knowledge state and learning style The student modeling component, ML-Modeler uses ( emulate the students novice transition ML-Modeler infers w
+Paper 14  Title: Accounting for Context in Plan Recognition, with Application to Traffic Monitoring  
+Abstract Typical approaches plan recognition start a representation an agent's possible plans reason evidentially observations to assess the various candidates A more expansive view the task (consistent accounts the context the plan generated the mental state and planning process the age
+Paper 15  Title: AN EMPIRICAL APPROACH TO SOLVING THE GENERAL UTILITY PROBLEM IN SPEEDUP LEARNING  
+Abstract The utility problem speedup learning describes a common behavior the eventual degradation increasing amounts learned knowledge The shape (cost using number training examples) over several domains suggests a parameterized model relating performance learned knowledge
+Label: Case Based
+Paper 16  Title: Robust Reinforcement Learning in Motion Planning  
+Abstract While exploring to find better solutions an agent performing online reinforcement learningRL worse is acceptable In exploration might unsafe, catastrophic often modeled reaching `failure' states of This paper domain knowledge reduce failures ex
+Label: Reinforcement Learning
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Reinforcement Learning
+
+Reinforcement Learning
+Prediction:  Reinforcement Learning
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 1759...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Two issues of an intelligent navigation robot have been addressed in this work. First is the robot's ability to learn a representation of the local environment and use this representation to identify which local environment it is in. This is done by first extracting features from the sensors which are more informative than just distances of obstacles in various directions. Using these features a reduced ring representation (RRR) of the local environment is derived. As the robot navigates, it learns the RRR signatures of all the new environment types it encounters. For purpose of identification, a ring matching criteria is proposed where the robot tries to match the RRR from the sensory input to one of the RRRs in its library. The second issue addressed is that of learning hill climbing control laws in the local environments. Unlike conventional neuro-controllers, a reinforcement learning framework, where the robot first learns a model of the environment and then learns the control law in terms of a neural network is proposed here. The reinforcement function is generated from the sensory inputs of the robot before and after a control action is taken. Three key results shown in this work are that (1) The robot is able to build its library of RRR signatures perfectly even with significant sensor noise for eight different local environ-mets, (2) It was able to identify its local environment with an accuracy of more than 96%, once the library is build, and (3) the robot was able to learn adequate hill climbing control laws which take it to the distinctive state of the local environment for five different environment types.
+Title: Title: Belief Maintenance in Bayesian Networks  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Simultaneous Learning of Control Laws and Local Environment Representations for Intelligent Navigation Robots  
+Abstract Two issues an intelligent navigation robot First is the robot's ability learn a representation use identify which local environment This done first extracting features the sensors which more informative just distances of obstacles in various directions Using these fe
+Paper 3  Title: An unsupervised neural network for low-level control of a wheeled mobile robot: noise resistance, stability,
+Abstract We introduced a neural network mobile robot controllerNETMORC the forward and inverse odometry a differential drive robot through After an initial learning phase the controller move the robot an arbitrary stationary or moving target while noise other forms disturbance su
+Paper 4  Title: Using a Case Base of Surfaces to Speed-Up Reinforcement Learning  
+Abstract demonstrates the exploitation certain vision processing index into a case base surfaces The surfaces the result reinforcement learning represent the optimum choice actions achieve some goal from anywhere This paper how strong features that occur the system
+Paper 5  Title: Exploration and Model Building in Mobile Robot Domains  
+Abstract I present first results COLUMBUS an autonomous mobile robot operates initially unknown, structured environments Its task explore model efficiently collisions obstacles uses an instance-based learning technique modeling its environment generalized via th
+Label: Reinforcement Learning
+Paper 6  Title: A Modular Q-Learning Architecture for Manipulator Task Decomposition `Data storage in the cerebellar model ar
+Abstract Compositional Q-Learning (Singh 1992 composite tasks made several elemental tasks by Skills acquired while performing elemental tasks applied solve composite tasks Individual skills compete act only winning skills included the decomposition the composite task We
+Paper 7  Title: A Simulation of Adaptive Agents in a Hostile Environment  
+Abstract In use the genetic programming technique evolve programs control an autonomous agent capable learning how survive In order facilitate this goal agents run random environment configurations Randomly programs control the interaction the agent recombined better programs
+Paper 8  Title: Dynamic Automatic Model Selection  
+Abstract COINS Technical Report 9230 February Abstract The problem how learn examples has studied throughout machine learning many successful learning algorithms A problem received how select which algorithm a given learning task The ability a chosen algorithm induce a good generalizatio
+Paper 9  Title: Robot Shaping: Developing Situated Agents through Learning  
+Abstract Learning plays situated agents In reinforcement learning "shape a robot a predefined target behavior We connect both simulated and real robots A LECSYS a parallel implementation a learning classifier system with an extended genetic algorithm After classifying different kinds Animat-like behav
+Paper 10  Title: Incremental Class Learning approach and its application to Handwritten Digit Recognition  
+Abstract Incremental Class Learning provides a feasible framework scalable learning systems Instead learning a complex problem at ICL focuses learning subproblems incrementally one a time | using the results prior learning for combining With respect multi-class classification
+Label: Neural Networks
+Paper 11  Title: Learning Concepts from Sensor Data of a Mobile Robot  
+Abstract Machine learning the flexibility robot applications Many approaches applying robotics known Some approaches enhance the planning capabilities. Other approaches enhance the control basic actions. In contrast the approach presented thi
+Paper 12  Title: NEUROCONTROL BY REINFORCEMENT LEARNING  
+Abstract: Reinforcement learningRL a model-free tuning adaptation method control dynamic systems Contrary supervised learning based usually gradient descent techniques RL does any model or sensitivity function of Hence RL can applied systems poorly uncertain nonlinear for untractable with
+Paper 13  Title: Modeling the Student with Reinforcement Learning  
+Abstract We describe a methodology enabling an intelligent teaching system make high level strategy decisions on low level student modeling information This framework less costly construct superior hand coding teaching strategies as responsive In order accomplish reinforcement learning associate sup
+Paper 14  Title: VECTOR ASSOCIATIVE MAPS: UNSUPERVISED REAL-TIME ERROR-BASED LEARNING AND CONTROL OF MOVEMENT TRAJECTORIES  
+Abstract: ALVINN (Autonomous Land Vehicle in a Neural Net a Backpropagation trained neural network which steering road and highway environments Although ALVINN fairly robust one has the time train As the vehicle is capable online learning has drive for the ne
+Paper 15  Title: EXPERIMENTING WITH THE CHEESEMAN-STUTZ EVIDENCE APPROXIMATION FOR PREDICTIVE MODELING AND DATA MINING  
+Abstract The work discussed motivated of building decision support systems Our goal use these systems supporting Bayes optimal decision making where the action maximizing the expected utility, with respect predicted probabilities should selected For the models need
+Paper 16  Title: CFS-C: A Package of Domain Independent Subroutines for Implementing Classifier Systems in Arbitrary, User-Defined Environments.  
+Abstract introduces intelligent agent a constructive induction-based learning agentCILA This agent differs other adaptive agents because not learn how assist a user some task incrementally adapt its knowledge representation space better the given learning task The agents ability autonomously make pro
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Probabilistic Methods
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  False
+
+Prediction: 0
+Processing index 512...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Recently, we have proven that the dynamics of any deterministic finite-state automata (DFA) with n states and m input symbols can be implemented in a sparse second-order recurrent neural network (SORNN) with n + 1 state neurons and O(mn) second-order weights and sigmoidal discriminant functions [5]. We investigate how that constructive algorithm can be extended to fault-tolerant neural DFA implementations where faults in an analog implementation of neurons or weights do not affect the desired network performance. We show that tolerance to weight perturbation can be achieved easily; tolerance to weight and/or neuron stuck-at-zero faults, however, requires duplication of the network resources. This result has an impact on the construction of neural DFAs with a dense internal representation of DFA states.
+Title: Title: Fault-Tolerant Implementation of Finite-State Automata in Recurrent Neural Networks  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Constructing Deterministic Finite-State Automata in Recurrent Neural Networks  
+Abstract Recurrent neural networks that behaveDFAs show deteriorating performance tested long strings This deteriorating performance can the instability the internal representation the learned DFA states The use a sigmoidal discriminant function together the recurrent structure contribute th
+Label: Neural Networks
+Paper 3  Title: Learning Context-free Grammars: Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory  
+Abstract Deterministic Context-free (DCF) Grammars a Connectionist paradigm a Recurrent Neural Network Pushdown AutomatonNNPDA The NNPDA consists a recurrent neural network connected an external stack memory through a common error function We show the NNPDA able learn the dynamics an underlying pushdown automaton
+Paper 4  Title: Constructive Learning of Recurrent Neural Networks: Limitations of Recurrent Casade Correlation and a Simple Solution  
+Abstract It often predict the optimal neural network size a particular application Constructive or destructive methods that add neurons layers connections might offer We prove one method, Recurrent Cascade Correlation due its topology has fundamental limitations representation thus its learning capabilities
+Label: Neural Networks
+Paper 5  Title: Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  
+Abstract Category algorithms architectures | recurrent. No part submitted elsewhere Preference poster Abstract Existing proofs demonstrating the computational limitations explicitly limit their results units having or hard-threshold transfer functionsGiles and Kr
+Paper 6  Title: An Analytical Framework for Local Feedforward Networks  
+Abstract: Interference occurs learning in one area the input space unlearning Networks less susceptible interference referred spatially local networks To these properties a theoretical framework, consisting a measure interference network localization developed These measures incorporat
+Paper 7  Title: Local Feedforward Networks  
+Abstract Although feedforward neural networks function approximation in some applications networks experience a desired function One problem interference which learning in the input space causes unlearning Networks less susceptible interference referred spatially local networks To unders
+Paper 8  Title: Pruning Recurrent Neural Networks for Improved Generalization Performance  
+Abstract Determining the architecture any learning task For recurrent neural networks no general methods permit the estimation layers hidden neurons the size layers weights We present a simple pruning heuristic which significantly the generalization performance trained recurrent network
+Paper 9  Title: Extraction of Rules from Discrete-Time Recurrent Neural Networks  
+Abstract The extraction symbolic knowledge trained neural networks and the direct encoding (partial) knowledge networks prior are important issues They allow the exchange symbolic and connectionist knowledge representations The focus the quality the rules extracted recurrent neural networks Discrete-time re
+Paper 10  Title: Networks of Spiking Neurons: The Third Generation of Neural Network Models  
+Abstract The computational power formal models for networks spiking neurons compared based McCulloch Pitts neuronsi.e. threshold gates respectively sigmoidal gates In particular it shown networks spiking neurons computationally powerful these other neural network models A concrete biologically relevant function
+Label: Neural Networks
+Paper 11  Title: Localist Attractor Networks  
+Abstract Attractor networks map a continuous input space pattern completion cleaning noisy or features. However designing a net have a given set attractors notoriously; training procedures CPU produce spurious attractors ill-conditioned attractor basins These difficulties occur
+Paper 12  Title: A Unified Gradient-Descent/Clustering Architecture for Finite State Machine Induction  
+Abstract Although recurrent neural nets moderately learning emulate finite-state machinesFSMs the continuous internal state dynamics are matched the discrete behavior We describe an architecture, called DOLCE discrete states evolve a net as learning dolce consists a standard recurrent neural ne
+Paper 13  Title: First-Order vs. Second-Order Single Layer Recurrent Neural Networks  
+Abstract We examine the representational capabilities first-order and second-order Single Layer Recurrent Neural Networks hard-limiting neurons We show a second-order SLRNN strictly more However if the first-order SLRNN augmented output layers feedforward neurons implement any finite-state recognizer but only if sta
+Paper 14  Title: ASOCS: A Multilayered Connectionist Network with Guaranteed Learning of Arbitrary Mappings  
+Abstract features a new class multilayer connectionist architectures known ASOCS ASOCS is similar most decision-making neural network models attempts learn an adaptive set arbitrary vector mappings However differs dramatically its mechanisms ASOCS is based networks adaptive digital elemen
+Label: Neural Networks
+Paper 15  Title: LEARNING TO CONTROL FAST-WEIGHT MEMORIES: AN ALTERNATIVE TO DYNAMIC RECURRENT NETWORKS (Neural Computation, 4(1):131-139, 1992)  
+Abstract Previous algorithms supervised sequence learning dynamic recurrent networks This paper an alternative class gradient-based systems consisting two feedforward nets learn deal temporal sequences using fast weights produce context dependent weight changes whose weights may very The metho
+Paper 16  Title: An Efficient Implementation of Sigmoidal Neural Nets in Temporal Coding with Noisy Spiking Neurons  
+Abstract We show networks relatively realistic mathematical models for biological neurons in arbitrary feedforward sigmoidal neural nets which has previously considered This new approach temporal coding by single spikes (respectively by the timing synchronous firing pools the traditional interpretation
+Label: Neural Networks
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 1191...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: The term "bias" is widely used|and with different meanings|in the fields of machine learning and statistics. This paper clarifies the uses of this term and shows how to measure and visualize the statistical bias and variance of learning algorithms. Statistical bias and variance can be applied to diagnose problems with machine learning bias, and the paper shows four examples of this. Finally, the paper discusses methods of reducing bias and variance. Methods based on voting can reduce variance, and the paper compares Breiman's bagging method and our own tree randomization method for voting decision trees. Both methods uniformly improve performance on data sets from the Irvine repository. Tree randomization yields perfect performance on the Letter Recognition task. A weighted nearest neighbor algorithm based on the infinite bootstrap is also introduced. In general, decision tree algorithms have moderate-to-high variance, so an important implication of this work is that variance|rather than appropriate or inappropriate machine learning bias|is an important cause of poor performance for decision tree algorithms. 
+Title: Title: Machine Learning Bias, Statistical Bias, and Statistical Variance of Decision Tree Algorithms  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants  
+Abstract Methods for voting classification algorithms, such Bagging AdaBoost successful improving certain classifiers We review these algorithms describe a large empirical study comparing several variants conjunction a decision tree inducerthree variants a Naive-Bayes inducer The purp
+Label: Theory
+Paper 3  Title: BOOSTING AND NAIVE BAYESIAN LEARNING  
+Abstract Although so-called naive Bayesian classification makes the unrealistic assumption the values the attributes an example given this learning method remarkably practice no uniformly better learning method Boosting is a general method combining multiple classifiers due Yoav Freund Rob Schapire Thi
+Paper 4  Title: Experiments with a New Boosting Algorithm  
+Abstract In introduced a new boosting algorithm AdaBoost, theoretically significantly any learning algorithm consistently classifiers whose performance a little random guessing We also introduced the related notion a pseudoloss which forcing a learning algorithm of multilabel
+Paper 5  Title: Error-Correcting Output Coding Corrects Bias and Variance  
+Abstract Previous research a technique error output coding dramatically the classification accuracy that learn data points into one k 2 classes This paper an investigation why the ECOC technique works particularly employed decision-tree learning algorithms It shows th
+Paper 6  Title: A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features  
+Abstract nearest neighbor algorithms learning examples worked domains all features had numeric values such domains the examples can treated points distance metrics can use standard definitions symbolic domains a more sophisticated treatment the feature space We introduce a nearest neighbor learning in do
+Paper 7  Title: Simultaneous Evolution of Programs and their Control Structures Simultaneous Evolution of Programs and their Control
+Abstract Previous research a technique error output coding dramatically the classification accuracy that learn data points into one k 2 classes This paper an investigation why the ECOC technique works particularly employed decision-tree learning algorithms It shows th
+Paper 8  Title: Bias and the Quantification of Stability Bias and the Quantification of Stability Bias and the
+Abstract: Research bias machine learning algorithms generally concerned the impact predictive accuracy We believe there other factors should also the evaluation bias One such factor the stability the algorithm; in repeatability If we obtain two sets the same phenomenon with the sam
+Label: Theory
+Paper 9  Title: Why Does Bagging Work? A Bayesian Account and its Implications bagging's success, both in a
+Abstract The error rate decision-tree and other classification learners can often much reduced bagging: learning multiple models bootstrap samples the database combining by uniform voting In two alternative explanations this, works an approximation optimal proced
+Paper 10  Title: Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods  
+Abstract One the surprising recurring phenomena observed experiments boosting is the test error the generated classifier usually does increase its size very often observed even the training error reaches In this paper this phenomenon related the distribution margins the training examples with
+Label: Theory
+Paper 11  Title: Irrelevant Features and the Subset Selection Problem  
+Abstract We address finding a subset features allows a supervised induction induce small high-accuracy concepts We examine notions relevance show the definitions the machine learning literature partition the features into We present definitions irrelevance for two de
+Label: Theory
+Paper 12  Title: Regression Can Build Predictive Causal Models  
+Abstract Covariance information an algorithm search predictive causal models estimate This information should discarded after conditional independence constraints identified is usual contemporary causal induction algorithms Our fbd algorithm combines covariance information an effective heuristic build ca
+Paper 13  Title: The Power of Decision Tables  
+Abstract We evaluate decision tables a hypothesis space Decision tables one the simplest hypothesis spaces possible usually they easy Experimental results on artificial and real-world domains containing only discrete features IDTM, an algorithm inducing decision tables sometimes
+Paper 14  Title: On Learning Multiple Descriptions of a Concept  
+Abstract In sparse data environments greater classification accuracy learning several concept descriptions combining their classifications Stochastic search a general tool which generate many good concept descriptions (rule sets each class Bayesian probability theory offers an optimal strategy combining classifications o
+Paper 15  Title: Classifiers: A Theoretical and Empirical Study  
+Abstract a competitive tree learning derived first principles The algorithm approximates the Bayesian decision theoretic solution the learning task Comparative experiments the algorithm the several mature AI and statistical families tree learning algorithms currently show the derived Bayesian algorithm consistently as
+Paper 16  Title: The role of afferent excitatory and lateral inhibitory synaptic plasticity in visual cortical ocular dominance
+Abstract The boosting algorithm AdaBoost Freund Schapire exhibited several benchmark problems when C4.5 as to be " Like other ensemble learning approaches constructs a composite hypothesis by voting many individual hypotheses practice the large amount memory these hypotheses c
+Label: Neural Networks
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Theory
+
+Theory
+Prediction:  Theory
+Is prediction correct?  True
+
+Prediction: 1
+Accuracy: 0.8
+Wrong indexes: [1759]
+Wrong list: [2]
+Wrong indexes length: 1

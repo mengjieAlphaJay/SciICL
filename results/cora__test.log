@@ -1,0 +1,130 @@
+experName ....  test
+Processing index 1794...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exists an interdisciplinary multidimensional gradation on published studies of neocortex, with one primary dimension of mathematical physics represented by two extremes. At one extreme, there is much scientifically unsupported talk of chaos and quantum physics being responsible for many important macroscopic neocortical processes (involving many thousands to millions of neurons) (Wilczek, 1994). At another extreme, many non-mathematically trained neuroscientists uncritically lump all neocortical mathematical theory into one file, and consider only statistical averages of citations for opinions on the quality of that research (Nunez, 1995). In this context, it is important to appreciate that Wright and Liley (W&L) report on their scientifically sound studies on macroscopic neocortical function, based on simulation and a blend of sound theory and reproducible experiments. However, their pioneering work, given the absence of much knowledge of neocortex at this time, is open to criticism, especially with respect to their present inferences and conclusions. Their conclusion that EEG data exhibit linear near-equilibrium dynamics may very well be true, but only in the sense of focusing only on one local minima, possibly with individual-specific and physiological-state dependent 
+Title: Title: NONLINEAR NONEQUILIBRIUM NONQUANTUM NONCHAOTIC STATISTICAL MECHANICS OF NEOCORTICAL INTERACTIONS  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Evaluating and Improving Steady State Evolutionary Algorithms on Constraint Satisfaction Problems  
+Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exis
+Paper 3  Title: Application of statistical mechanics methodol- ogy to term-structure bond-pricing models, Mathl. Comput. Modelling Application of
+Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exis
+Label: Neural Networks
+Paper 4  Title: Replicability of Neural Computing Experiments  
+Abstract: If an experiment requires statistical analysis to establish a result, then one should do a better experiment. Ernest Rutherford, 1930 Most proponents of cold fusion reporting excess heat from their electrolysis experiments were claiming that one of the main characteristics of cold fusion was its irreproducibility | J.R. Huizenga, Cold Fusion, 1993, p. 78 Abstract Amid the ever increasing
+Label: Neural Networks
+Paper 5  Title: MULTIPLE SCALES OF BRAIN-MIND INTERACTIONS  
+Abstract: Posner and Raichle's Images of Mind is an excellent educational book and very well written. Some aws as a scientific publication are: (a) the accuracy of the linear subtraction method used in PET is subject to scrutiny by further research at finer spatial-temporal resolutions; (b) lack of accuracy of the experimental paradigm used for EEG complementary studies. Images (Posner & Raichle, 
+Paper 6  Title: Statistical mechanics of neocortical interactions: Training and testing canonical momenta indicators of EEG  
+Abstract: A series of papers has developed a statistical mechanics of neocortical interactions (SMNI), deriving aggregate behavior of experimentally observed columns of neurons from statistical electrical-chemical properties of synaptic interactions. While not useful to yield insights at the single neuron level, SMNI has demonstrated its capability in describing large-scale properties of short-ter
+Label: Neural Networks
+Paper 7  Title: Book Review  Introduction to the Theory of Neural Computation Reviewed by: 2  
+Abstract: Neural computation, also called connectionism, parallel distributed processing, neural network modeling or brain-style computation, has grown rapidly in the last decade. Despite this explosion, and ultimately because of impressive applications, there has been a dire need for a concise introduction from a theoretical perspective, analyzing the strengths and weaknesses of connectionist app
+Paper 8  Title: Studies of Neurological Transmission Analysis using Hierarchical Bayesian Mixture Models  
+Abstract: Hierarchically structured mixture models are studied in the context of data analysis and inference on neural synaptic transmission characteristics in mammalian, and other, central nervous systems. Mixture structures arise due to uncertainties about the stochastic mechanisms governing the responses to electro-chemical stimulation of individual neuro-transmitter release sites at nerve junc
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 455...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: A learning agent employing reinforcement learning is hindered because it only receives the critic's sparse and weakly informative training information. We present an approach in which an automated training agent may also provide occasional instruction to the learner in the form of actions for the learner to perform. The learner has access to both the critic's feedback and the trainer's instruction. In the experiments, we vary the level of the trainer's interaction with the learner, from allowing the trainer to instruct the learner at almost every time step, to not allowing the trainer to respond at all. We also vary a parameter that controls how the learner incorporates the trainer's actions. The results show significant reductions in the average number of training trials necessary to learn to perform the task.
+Title: Title: Learning from an Automated Training Agent  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: An Introspection Approach to Querying a Trainer  
+Abstract: Technical Report 96-13 January 22, 1996 Abstract This paper introduces the Introspection Approach, a method by which a learning agent employing reinforcement learning can decide when to ask a training agent for instruction. When using our approach, we find that the same number of trainer's responses produced significantly faster learners than by having the learner ask for aid randomly. G
+Paper 3  Title: Modeling the Student with Reinforcement Learning  
+Abstract: We describe a methodology for enabling an intelligent teaching system to make high level strategy decisions on the basis of low level student modeling information. This framework is less costly to construct, and superior to hand coding teaching strategies as it is more responsive to the learner's needs. In order to accomplish this, reinforcement learning is used to learn to associate sup
+Paper 4  Title: Reinforcement Learning with Imitation in Heterogeneous Multi-Agent Systems  
+Abstract: The application of decision making and learning algorithms to multi-agent systems presents many interestingresearch challenges and opportunities. Among these is the ability for agents to learn how to act by observing or imitating other agents. We describe an algorithm, the IQ-algorithm, that integrates imitation with Q-learning. Roughly, a Q-learner uses the observations it has made of a
+Paper 5  Title: Machine Learning,  Creating Advice-Taking Reinforcement Learners  
+Abstract: Learning from reinforcements is a promising approach for creating intelligent agents. However, reinforcement learning usually requires a large number of training episodes. We present and evaluate a design that addresses this shortcoming by allowing a connectionist Q-learner to accept advice given, at any time and in a natural manner, by an external observer. In our approach, the advice-g
+Paper 6  Title: Improving Generalization with Active Learning  
+Abstract: Active learning differs from passive "learning from examples" in that the learning algorithm assumes at least some control over what part of the input domain it receives information about. In some situations, active learning is provably more powerful that learning from examples alone, giving better generalization for a fixed number of training examples. In this paper, we consider the pro
+Paper 7  Title: Learning Optimal Dialogue Strategies: A Case Study of a Spoken Dialogue Agent for Email  
+Abstract: This paper describes a novel method by which a dialogue agent can learn to choose an optimal dialogue strategy. While it is widely agreed that dialogue strategies should be formulated in terms of communicative intentions, there has been little work on automatically optimizing an agent's choices when there are multiple ways to realize a communicative intention. Our method is based on a co
+Label: Reinforcement Learning
+Paper 8  Title: Learning to Predict User Operations for Adaptive Scheduling  
+Abstract: Mixed-initiative systems present the challenge of finding an effective level of interaction between humans and computers. Machine learning presents a promising approach to this problem in the form of systems that automatically adapt their behavior to accommodate different users. In this paper, we present an empirical study of learning user models in an adaptive assistant for crisis sched
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Reinforcement Learning
+
+Reinforcement Learning
+Prediction:  Reinforcement Learning
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 1759...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Two issues of an intelligent navigation robot have been addressed in this work. First is the robot's ability to learn a representation of the local environment and use this representation to identify which local environment it is in. This is done by first extracting features from the sensors which are more informative than just distances of obstacles in various directions. Using these features a reduced ring representation (RRR) of the local environment is derived. As the robot navigates, it learns the RRR signatures of all the new environment types it encounters. For purpose of identification, a ring matching criteria is proposed where the robot tries to match the RRR from the sensory input to one of the RRRs in its library. The second issue addressed is that of learning hill climbing control laws in the local environments. Unlike conventional neuro-controllers, a reinforcement learning framework, where the robot first learns a model of the environment and then learns the control law in terms of a neural network is proposed here. The reinforcement function is generated from the sensory inputs of the robot before and after a control action is taken. Three key results shown in this work are that (1) The robot is able to build its library of RRR signatures perfectly even with significant sensor noise for eight different local environ-mets, (2) It was able to identify its local environment with an accuracy of more than 96%, once the library is build, and (3) the robot was able to learn adequate hill climbing control laws which take it to the distinctive state of the local environment for five different environment types.
+Title: Title: Belief Maintenance in Bayesian Networks  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Simultaneous Learning of Control Laws and Local Environment Representations for Intelligent Navigation Robots  
+Abstract: Two issues of an intelligent navigation robot have been addressed in this work. First is the robot's ability to learn a representation of the local environment and use this representation to identify which local environment it is in. This is done by first extracting features from the sensors which are more informative than just distances of obstacles in various directions. Using these fe
+Paper 3  Title: An unsupervised neural network for low-level control of a wheeled mobile robot: noise resistance, stability,
+Abstract: We have recently introduced a neural network mobile robot controller (NETMORC) that autonomously learns the forward and inverse odometry of a differential drive robot through an unsupervised learning-by-doing cycle. After an initial learning phase, the controller can move the robot to an arbitrary stationary or moving target while compensating for noise and other forms of disturbance, su
+Paper 4  Title: Using a Case Base of Surfaces to Speed-Up Reinforcement Learning  
+Abstract: This paper demonstrates the exploitation of certain vision processing techniques to index into a case base of surfaces. The surfaces are the result of reinforcement learning and represent the optimum choice of actions to achieve some goal from anywhere in the state space. This paper shows how strong features that occur in the interaction of the system with its environment can be detected
+Paper 5  Title: Exploration and Model Building in Mobile Robot Domains  
+Abstract: I present first results on COLUMBUS, an autonomous mobile robot. COLUMBUS operates in initially unknown, structured environments. Its task is to explore and model the environment efficiently while avoiding collisions with obstacles. COLUMBUS uses an instance-based learning technique for modeling its environment. Real-world experiences are generalized via two artificial neural networks th
+Label: Reinforcement Learning
+Paper 6  Title: A Modular Q-Learning Architecture for Manipulator Task Decomposition `Data storage in the cerebellar model ar
+Abstract: Compositional Q-Learning (CQ-L) (Singh 1992) is a modular approach to learning to perform composite tasks made up of several elemental tasks by reinforcement learning. Skills acquired while performing elemental tasks are also applied to solve composite tasks. Individual skills compete for the right to act and only winning skills are included in the decomposition of the composite task. We
+Paper 7  Title: A Simulation of Adaptive Agents in a Hostile Environment  
+Abstract: In this paper we use the genetic programming technique to evolve programs to control an autonomous agent capable of learning how to survive in a hostile environment. In order to facilitate this goal, agents are run through random environment configurations. Randomly generated programs, which control the interaction of the agent with its environment, are recombined to form better programs
+Paper 8  Title: Dynamic Automatic Model Selection  
+Abstract: COINS Technical Report 92-30 February 1992 Abstract The problem of how to learn from examples has been studied throughout the history of machine learning, and many successful learning algorithms have been developed. A problem that has received less attention is how to select which algorithm to use for a given learning task. The ability of a chosen algorithm to induce a good generalizatio
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Probabilistic Methods
+
+Reinforcement Learning
+Prediction:  Reinforcement Learning
+Is prediction correct?  False
+
+Prediction: 0
+Accuracy: 0.6666666666666666
+Wrong indexes: [1759]
+Wrong list: [2]
+Wrong indexes length: 1

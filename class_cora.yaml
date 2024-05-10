@@ -1,0 +1,13 @@
+moding: 'all'
+dataset_name: 'cora'
+samplesize: 5 #'all' #5, 100, .... 
+load_embedding: True # False;  True if emedding has been calculated
+max_papers: 
+  - 10
+  - 5
+retry: 'all' # wrong,part
+seed: 42
+LLM: GPT
+abstract_len: 500
+stratage: 'citation'
+wridx: []

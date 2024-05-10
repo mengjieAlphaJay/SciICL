@@ -1,0 +1,425 @@
+experName ....  24.4.1-00-sciemd-size_10-test
+Processing index 1794...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exists an interdisciplinary multidimensional gradation on published studies of neocortex, with one primary dimension of mathematical physics represented by two extremes. At one extreme, there is much scientifically unsupported talk of chaos and quantum physics being responsible for many important macroscopic neocortical processes (involving many thousands to millions of neurons) (Wilczek, 1994). At another extreme, many non-mathematically trained neuroscientists uncritically lump all neocortical mathematical theory into one file, and consider only statistical averages of citations for opinions on the quality of that research (Nunez, 1995). In this context, it is important to appreciate that Wright and Liley (W&L) report on their scientifically sound studies on macroscopic neocortical function, based on simulation and a blend of sound theory and reproducible experiments. However, their pioneering work, given the absence of much knowledge of neocortex at this time, is open to criticism, especially with respect to their present inferences and conclusions. Their conclusion that EEG data exhibit linear near-equilibrium dynamics may very well be true, but only in the sense of focusing only on one local minima, possibly with individual-specific and physiological-state dependent 
+Title: Title: NONLINEAR NONEQUILIBRIUM NONQUANTUM NONCHAOTIC STATISTICAL MECHANICS OF NEOCORTICAL INTERACTIONS  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Evaluating and Improving Steady State Evolutionary Algorithms on Constraint Satisfaction Problems  
+Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exis
+Paper 3  Title: Application of statistical mechanics methodol- ogy to term-structure bond-pricing models, Mathl. Comput. Modelling Application of
+Abstract: The work in progress reported by Wright & Liley shows great promise, primarily because of their experimental and simulation paradigms. However, their tentative conclusion that macroscopic neocortex may be considered (approximately) a linear near-equilibrium system is premature and does not correspond to tentative conclusions drawn from other studies of neocortex. At this time, there exis
+Label: Neural Networks
+Paper 4  Title: Replicability of Neural Computing Experiments  
+Abstract: If an experiment requires statistical analysis to establish a result, then one should do a better experiment. Ernest Rutherford, 1930 Most proponents of cold fusion reporting excess heat from their electrolysis experiments were claiming that one of the main characteristics of cold fusion was its irreproducibility | J.R. Huizenga, Cold Fusion, 1993, p. 78 Abstract Amid the ever increasing
+Label: Neural Networks
+Paper 5  Title: MULTIPLE SCALES OF BRAIN-MIND INTERACTIONS  
+Abstract: Posner and Raichle's Images of Mind is an excellent educational book and very well written. Some aws as a scientific publication are: (a) the accuracy of the linear subtraction method used in PET is subject to scrutiny by further research at finer spatial-temporal resolutions; (b) lack of accuracy of the experimental paradigm used for EEG complementary studies. Images (Posner & Raichle, 
+Paper 6  Title: Statistical mechanics of neocortical interactions: Training and testing canonical momenta indicators of EEG  
+Abstract: A series of papers has developed a statistical mechanics of neocortical interactions (SMNI), deriving aggregate behavior of experimentally observed columns of neurons from statistical electrical-chemical properties of synaptic interactions. While not useful to yield insights at the single neuron level, SMNI has demonstrated its capability in describing large-scale properties of short-ter
+Label: Neural Networks
+Paper 7  Title: Book Review  Introduction to the Theory of Neural Computation Reviewed by: 2  
+Abstract: Neural computation, also called connectionism, parallel distributed processing, neural network modeling or brain-style computation, has grown rapidly in the last decade. Despite this explosion, and ultimately because of impressive applications, there has been a dire need for a concise introduction from a theoretical perspective, analyzing the strengths and weaknesses of connectionist app
+Paper 8  Title: Studies of Neurological Transmission Analysis using Hierarchical Bayesian Mixture Models  
+Abstract: Hierarchically structured mixture models are studied in the context of data analysis and inference on neural synaptic transmission characteristics in mammalian, and other, central nervous systems. Mixture structures arise due to uncertainties about the stochastic mechanisms governing the responses to electro-chemical stimulation of individual neuro-transmitter release sites at nerve junc
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 455...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: A learning agent employing reinforcement learning is hindered because it only receives the critic's sparse and weakly informative training information. We present an approach in which an automated training agent may also provide occasional instruction to the learner in the form of actions for the learner to perform. The learner has access to both the critic's feedback and the trainer's instruction. In the experiments, we vary the level of the trainer's interaction with the learner, from allowing the trainer to instruct the learner at almost every time step, to not allowing the trainer to respond at all. We also vary a parameter that controls how the learner incorporates the trainer's actions. The results show significant reductions in the average number of training trials necessary to learn to perform the task.
+Title: Title: Learning from an Automated Training Agent  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: An Introspection Approach to Querying a Trainer  
+Abstract: Technical Report 96-13 January 22, 1996 Abstract This paper introduces the Introspection Approach, a method by which a learning agent employing reinforcement learning can decide when to ask a training agent for instruction. When using our approach, we find that the same number of trainer's responses produced significantly faster learners than by having the learner ask for aid randomly. G
+Paper 3  Title: Modeling the Student with Reinforcement Learning  
+Abstract: We describe a methodology for enabling an intelligent teaching system to make high level strategy decisions on the basis of low level student modeling information. This framework is less costly to construct, and superior to hand coding teaching strategies as it is more responsive to the learner's needs. In order to accomplish this, reinforcement learning is used to learn to associate sup
+Paper 4  Title: Reinforcement Learning with Imitation in Heterogeneous Multi-Agent Systems  
+Abstract: The application of decision making and learning algorithms to multi-agent systems presents many interestingresearch challenges and opportunities. Among these is the ability for agents to learn how to act by observing or imitating other agents. We describe an algorithm, the IQ-algorithm, that integrates imitation with Q-learning. Roughly, a Q-learner uses the observations it has made of a
+Paper 5  Title: Machine Learning,  Creating Advice-Taking Reinforcement Learners  
+Abstract: Learning from reinforcements is a promising approach for creating intelligent agents. However, reinforcement learning usually requires a large number of training episodes. We present and evaluate a design that addresses this shortcoming by allowing a connectionist Q-learner to accept advice given, at any time and in a natural manner, by an external observer. In our approach, the advice-g
+Paper 6  Title: Improving Generalization with Active Learning  
+Abstract: Active learning differs from passive "learning from examples" in that the learning algorithm assumes at least some control over what part of the input domain it receives information about. In some situations, active learning is provably more powerful that learning from examples alone, giving better generalization for a fixed number of training examples. In this paper, we consider the pro
+Paper 7  Title: Learning Optimal Dialogue Strategies: A Case Study of a Spoken Dialogue Agent for Email  
+Abstract: This paper describes a novel method by which a dialogue agent can learn to choose an optimal dialogue strategy. While it is widely agreed that dialogue strategies should be formulated in terms of communicative intentions, there has been little work on automatically optimizing an agent's choices when there are multiple ways to realize a communicative intention. Our method is based on a co
+Label: Reinforcement Learning
+Paper 8  Title: Learning to Predict User Operations for Adaptive Scheduling  
+Abstract: Mixed-initiative systems present the challenge of finding an effective level of interaction between humans and computers. Machine learning presents a promising approach to this problem in the form of systems that automatically adapt their behavior to accommodate different users. In this paper, we present an empirical study of learning user models in an adaptive assistant for crisis sched
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Reinforcement Learning
+
+Reinforcement Learning
+Prediction:  Reinforcement Learning
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 1759...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Two issues of an intelligent navigation robot have been addressed in this work. First is the robot's ability to learn a representation of the local environment and use this representation to identify which local environment it is in. This is done by first extracting features from the sensors which are more informative than just distances of obstacles in various directions. Using these features a reduced ring representation (RRR) of the local environment is derived. As the robot navigates, it learns the RRR signatures of all the new environment types it encounters. For purpose of identification, a ring matching criteria is proposed where the robot tries to match the RRR from the sensory input to one of the RRRs in its library. The second issue addressed is that of learning hill climbing control laws in the local environments. Unlike conventional neuro-controllers, a reinforcement learning framework, where the robot first learns a model of the environment and then learns the control law in terms of a neural network is proposed here. The reinforcement function is generated from the sensory inputs of the robot before and after a control action is taken. Three key results shown in this work are that (1) The robot is able to build its library of RRR signatures perfectly even with significant sensor noise for eight different local environ-mets, (2) It was able to identify its local environment with an accuracy of more than 96%, once the library is build, and (3) the robot was able to learn adequate hill climbing control laws which take it to the distinctive state of the local environment for five different environment types.
+Title: Title: Belief Maintenance in Bayesian Networks  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Simultaneous Learning of Control Laws and Local Environment Representations for Intelligent Navigation Robots  
+Abstract: Two issues of an intelligent navigation robot have been addressed in this work. First is the robot's ability to learn a representation of the local environment and use this representation to identify which local environment it is in. This is done by first extracting features from the sensors which are more informative than just distances of obstacles in various directions. Using these fe
+Paper 3  Title: An unsupervised neural network for low-level control of a wheeled mobile robot: noise resistance, stability,
+Abstract: We have recently introduced a neural network mobile robot controller (NETMORC) that autonomously learns the forward and inverse odometry of a differential drive robot through an unsupervised learning-by-doing cycle. After an initial learning phase, the controller can move the robot to an arbitrary stationary or moving target while compensating for noise and other forms of disturbance, su
+Paper 4  Title: Using a Case Base of Surfaces to Speed-Up Reinforcement Learning  
+Abstract: This paper demonstrates the exploitation of certain vision processing techniques to index into a case base of surfaces. The surfaces are the result of reinforcement learning and represent the optimum choice of actions to achieve some goal from anywhere in the state space. This paper shows how strong features that occur in the interaction of the system with its environment can be detected
+Paper 5  Title: Exploration and Model Building in Mobile Robot Domains  
+Abstract: I present first results on COLUMBUS, an autonomous mobile robot. COLUMBUS operates in initially unknown, structured environments. Its task is to explore and model the environment efficiently while avoiding collisions with obstacles. COLUMBUS uses an instance-based learning technique for modeling its environment. Real-world experiences are generalized via two artificial neural networks th
+Label: Reinforcement Learning
+Paper 6  Title: A Modular Q-Learning Architecture for Manipulator Task Decomposition `Data storage in the cerebellar model ar
+Abstract: Compositional Q-Learning (CQ-L) (Singh 1992) is a modular approach to learning to perform composite tasks made up of several elemental tasks by reinforcement learning. Skills acquired while performing elemental tasks are also applied to solve composite tasks. Individual skills compete for the right to act and only winning skills are included in the decomposition of the composite task. We
+Paper 7  Title: A Simulation of Adaptive Agents in a Hostile Environment  
+Abstract: In this paper we use the genetic programming technique to evolve programs to control an autonomous agent capable of learning how to survive in a hostile environment. In order to facilitate this goal, agents are run through random environment configurations. Randomly generated programs, which control the interaction of the agent with its environment, are recombined to form better programs
+Paper 8  Title: Dynamic Automatic Model Selection  
+Abstract: COINS Technical Report 92-30 February 1992 Abstract The problem of how to learn from examples has been studied throughout the history of machine learning, and many successful learning algorithms have been developed. A problem that has received less attention is how to select which algorithm to use for a given learning task. The ability of a chosen algorithm to induce a good generalizatio
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Probabilistic Methods
+
+Reinforcement Learning
+Prediction:  Reinforcement Learning
+Is prediction correct?  False
+
+Prediction: 0
+Processing index 512...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Recently, we have proven that the dynamics of any deterministic finite-state automata (DFA) with n states and m input symbols can be implemented in a sparse second-order recurrent neural network (SORNN) with n + 1 state neurons and O(mn) second-order weights and sigmoidal discriminant functions [5]. We investigate how that constructive algorithm can be extended to fault-tolerant neural DFA implementations where faults in an analog implementation of neurons or weights do not affect the desired network performance. We show that tolerance to weight perturbation can be achieved easily; tolerance to weight and/or neuron stuck-at-zero faults, however, requires duplication of the network resources. This result has an impact on the construction of neural DFAs with a dense internal representation of DFA states.
+Title: Title: Fault-Tolerant Implementation of Finite-State Automata in Recurrent Neural Networks  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Constructing Deterministic Finite-State Automata in Recurrent Neural Networks  
+Abstract: Recurrent neural networks that are trained to behave like deterministic finite-state automata (DFAs) can show deteriorating performance when tested on long strings. This deteriorating performance can be attributed to the instability of the internal representation of the learned DFA states. The use of a sigmoidal discriminant function together with the recurrent structure contribute to th
+Label: Neural Networks
+Paper 3  Title: Learning Context-free Grammars: Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory  
+Abstract: This work describes an approach for inferring Deterministic Context-free (DCF) Grammars in a Connectionist paradigm using a Recurrent Neural Network Pushdown Automaton (NNPDA). The NNPDA consists of a recurrent neural network connected to an external stack memory through a common error function. We show that the NNPDA is able to learn the dynamics of an underlying pushdown automaton from
+Paper 4  Title: Constructive Learning of Recurrent Neural Networks: Limitations of Recurrent Casade Correlation and a Simple Solution  
+Abstract: It is often difficult to predict the optimal neural network size for a particular application. Constructive or destructive methods that add or subtract neurons, layers, connections, etc. might offer a solution to this problem. We prove that one method, Recurrent Cascade Correlation, due to its topology, has fundamental limitations in representation and thus in its learning capabilities. 
+Label: Neural Networks
+Paper 5  Title: Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  
+Abstract: Category: algorithms and architectures | recurrent networks. No part of this paper has been submitted elsewhere. Preference: poster. Abstract Existing proofs demonstrating the computational limitations of the Recurrent Cascade Correlation (RCC) Network (Fahlman, 1991) explicitly limit their results to units having sigmoidal or hard-threshold transfer functions (Giles et al., 1995; and Kr
+Paper 6  Title: An Analytical Framework for Local Feedforward Networks  
+Abstract: Interference in neural networks occurs when learning in one area of the input space causes unlearning in another area. Networks that are less susceptible to interference are referred to as spatially local networks. To understand these properties, a theoretical framework, consisting of a measure of interference and a measure of network localization, is developed. These measures incorporat
+Paper 7  Title: Local Feedforward Networks  
+Abstract: Although feedforward neural networks are well suited to function approximation, in some applications networks experience problems when learning a desired function. One problem is interference which occurs when learning in one area of the input space causes unlearning in another area. Networks that are less susceptible to interference are referred to as spatially local networks. To unders
+Paper 8  Title: Pruning Recurrent Neural Networks for Improved Generalization Performance  
+Abstract: Determining the architecture of a neural network is an important issue for any learning task. For recurrent neural networks no general methods exist that permit the estimation of the number of layers of hidden neurons, the size of layers or the number of weights. We present a simple pruning heuristic which significantly improves the generalization performance of trained recurrent network
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 1191...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: The term "bias" is widely used|and with different meanings|in the fields of machine learning and statistics. This paper clarifies the uses of this term and shows how to measure and visualize the statistical bias and variance of learning algorithms. Statistical bias and variance can be applied to diagnose problems with machine learning bias, and the paper shows four examples of this. Finally, the paper discusses methods of reducing bias and variance. Methods based on voting can reduce variance, and the paper compares Breiman's bagging method and our own tree randomization method for voting decision trees. Both methods uniformly improve performance on data sets from the Irvine repository. Tree randomization yields perfect performance on the Letter Recognition task. A weighted nearest neighbor algorithm based on the infinite bootstrap is also introduced. In general, decision tree algorithms have moderate-to-high variance, so an important implication of this work is that variance|rather than appropriate or inappropriate machine learning bias|is an important cause of poor performance for decision tree algorithms. 
+Title: Title: Machine Learning Bias, Statistical Bias, and Statistical Variance of Decision Tree Algorithms  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants  
+Abstract: Methods for voting classification algorithms, such as Bagging and AdaBoost, have been shown to be very successful in improving the accuracy of certain classifiers for artificial and real-world datasets. We review these algorithms and describe a large empirical study comparing several variants in conjunction with a decision tree inducer (three variants) and a Naive-Bayes inducer. The purp
+Label: Theory
+Paper 3  Title: BOOSTING AND NAIVE BAYESIAN LEARNING  
+Abstract: Although so-called naive Bayesian classification makes the unrealistic assumption that the values of the attributes of an example are independent given the class of the example, this learning method is remarkably successful in practice, and no uniformly better learning method is known. Boosting is a general method of combining multiple classifiers due to Yoav Freund and Rob Schapire. Thi
+Paper 4  Title: Experiments with a New Boosting Algorithm  
+Abstract: In an earlier paper, we introduced a new boosting algorithm called AdaBoost which, theoretically, can be used to significantly reduce the error of any learning algorithm that consistently generates classifiers whose performance is a little better than random guessing. We also introduced the related notion of a pseudo-loss which is a method for forcing a learning algorithm of multi-label 
+Paper 5  Title: Error-Correcting Output Coding Corrects Bias and Variance  
+Abstract: Previous research has shown that a technique called error-correcting output coding (ECOC) can dramatically improve the classification accuracy of supervised learning algorithms that learn to classify data points into one of k 2 classes. This paper presents an investigation of why the ECOC technique works, particularly when employed with decision-tree learning algorithms. It shows that th
+Paper 6  Title: A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features  
+Abstract: In the past, nearest neighbor algorithms for learning from examples have worked best in domains in which all features had numeric values. In such domains, the examples can be treated as points and distance metrics can use standard definitions. In symbolic domains, a more sophisticated treatment of the feature space is required. We introduce a nearest neighbor algorithm for learning in do
+Paper 7  Title: Simultaneous Evolution of Programs and their Control Structures Simultaneous Evolution of Programs and their Control
+Abstract: Previous research has shown that a technique called error-correcting output coding (ECOC) can dramatically improve the classification accuracy of supervised learning algorithms that learn to classify data points into one of k 2 classes. This paper presents an investigation of why the ECOC technique works, particularly when employed with decision-tree learning algorithms. It shows that th
+Paper 8  Title: Bias and the Quantification of Stability Bias and the Quantification of Stability Bias and the
+Abstract: Research on bias in machine learning algorithms has generally been concerned with the impact of bias on predictive accuracy. We believe that there are other factors that should also play a role in the evaluation of bias. One such factor is the stability of the algorithm; in other words, the repeatability of the results. If we obtain two sets of data from the same phenomenon, with the sam
+Label: Theory
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Theory
+
+Theory
+Prediction:  Theory
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 474...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: We introduce a parallel approach, "DT-Select," for selecting features used by inductive learning algorithms to predict protein secondary structure. DT-Select is able to rapidly choose small, nonredundant feature sets from pools containing hundreds of thousands of potentially useful features. It does this by building a decision tree, using features from the pool, that classifies a set of training examples. The features included in the tree provide a compact description of the training data and are thus suitable for use as inputs to other inductive learning algorithms. Empirical experiments in the protein secondary-structure task, in which sets of complex features chosen by DT-Select are used to augment a standard artificial neural network representation, yield surprisingly little performance gain, even though features are selected from very large feature pools. We discuss some possible reasons for this result. 1 
+Title: Title: Protein Structure Prediction: Selecting Salient Features from Large Candidate Pools  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Evolution, Learning, and Instinct: 100 Years of the Baldwin Effect Using Learning to Facilitate the
+Abstract: This paper describes a hybrid methodology that integrates genetic algorithms and decision tree learning in order to evolve useful subsets of discriminatory features for recognizing complex visual concepts. A genetic algorithm (GA) is used to search the space of all possible subsets of a large set of candidate discrimination features. Candidate feature subsets are evaluated by using C4.5,
+Label: Genetic Algorithms
+Paper 3  Title: Maximum A Posteriori Classification of DNA Structure from Sequence Information  
+Abstract: We introduce an algorithm, lllama, which combines simple pattern recognizers into a general method for estimating the entropy of a sequence. Each pattern recognizer exploits a partial match between subsequences to build a model of the sequence. Since the primary features of interest in biological sequence domains are subsequences with small variations in exact composition, lllama is part
+Label: Neural Networks
+Paper 4  Title: Feature Generation for Sequence Categorization  
+Abstract: The problem of sequence categorization is to generalize from a corpus of labeled sequences procedures for accurately labeling future unlabeled sequences. The choice of representation of sequences can have a major impact on this task, and in the absence of background knowledge a good representation is often not known and straightforward representations are often far from optimal. We propo
+Paper 5  Title: Prototype and Feature Selection by Sampling and Random Mutation Hill Climbing Algorithms  
+Abstract: With the goal of reducing computational costs without sacrificing accuracy, we describe two algorithms to find sets of prototypes for nearest neighbor classification. Here, the term prototypes refers to the reference instances used in a nearest neighbor computation the instances with respect to which similarity is assessed in order to assign a class to a new data item. Both algorithms re
+Paper 6  Title: Feature Subset Selection Using the Wrapper Method: Overfitting and Dynamic Search Space Topology  
+Abstract: In the wrapper approach to feature subset selection, a search for an optimal set of features is made using the induction algorithm as a black box. The estimated future performance of the algorithm is the heuristic guiding the search. Statistical methods for feature subset selection including forward selection, backward elimination, and their stepwise variants can be viewed as simple hill
+Paper 7  Title: Stochastic Propositionalization of Non-Determinate Background Knowledge  
+Abstract: It is a well-known fact that propositional learning algorithms require "good" features to perform well in practice. So a major step in data engineering for inductive learning is the construction of good features by domain experts. These features often represent properties of structured objects, where a property typically is the occurrence of a certain substructure having certain properti
+Paper 8  Title: Compression-Based Feature Subset Selection  Keywords: Minimum Description Length Principle, Cross Validation, Noise  
+Abstract: Irrelevant and redundant features may reduce both predictive accuracy and comprehensibility of induced concepts. Most common Machine Learning approaches for selecting a good subset of relevant features rely on cross-validation. As an alternative, we present the application of a particular Minimum Description Length (MDL) measure to the task of feature subset selection. Using the MDL prin
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Genetic Algorithms
+Prediction:  Genetic Algorithms
+Is prediction correct?  False
+
+Prediction: 0
+Processing index 1065...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: IlliGAL Report No. 97003 May 1997 
+Title: Title: A Survey of Parallel Genetic Algorithms  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Genetic Algorithms, Tournament Selection, and the Effects of Noise  
+Abstract: IlliGAL Report No. 95006 July 1995 
+Paper 3  Title: The Bayesian Approach to Tree-Structured Regression  
+Abstract: TECHNICAL REPORT NO. 967 August 1996 
+Paper 4  Title: Finding Analogues for Innovative Design  
+Abstract: Knowledge Systems Laboratory March 1995 Report No. KSL 95-32 
+Paper 5  Title: Environments with Classifier Systems (Experiments on Adding Memory to XCS)  
+Abstract: Pier Luca Lanzi Technical Report N. 97.45 October 17 th , 1997 
+Paper 6  Title: The Role of Transfer in Learning (extended abstract)  
+Abstract: Technical Report No. 670 December, 1997 
+Label: Reinforcement Learning
+Paper 7  Title: Model of the Environment to Avoid Local Learning  
+Abstract: Pier Luca Lanzi Technical Report N. 97.46 December 20 th , 1997 
+Paper 8  Title: A Comparison of Selection Schemes used in Genetic Algorithms  
+Abstract: TIK-Report Nr. 11, December 1995 Version 2 (2. Edition) 
+Label: Genetic Algorithms
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Genetic Algorithms
+
+Genetic Algorithms
+Prediction:  Genetic Algorithms
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 2561...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Given a problem, a case-based reasoning (CBR) system will search its case memory and use the stored cases to find the solution, possibly modifying retrieved cases to adapt to the required input specifications. In discrete domains CBR reasoning can be based on a rigorous Bayesian probability propagation algorithm. Such a Bayesian CBR system can be implemented as a probabilistic feedforward neural network with one of the layers representing the cases. In this paper we introduce a Minimum Description Length (MDL) based learning algorithm to obtain the proper network structure with the associated conditional probabilities. This algorithm together with the resulting neural network implementation provide a massively parallel architecture for solving the efficiency bottleneck in case-based reasoning. 
+Title: Title: MDL Learning of Probabilistic Neural Networks for Discrete Problem Domains  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Bayesian Case-Based Reasoning with Neural Networks  
+Abstract: Given a problem, a case-based reasoning (CBR) system will search its case memory and use the stored cases to find the solution, possibly modifying retrieved cases to adapt to the required input specifications. In this paper we introduce a neural network architecture for efficient case-based reasoning. We show how a rigorous Bayesian probability propagation algorithm can be implemented as
+Label: Probabilistic Methods
+Paper 3  Title: Adaptive Tuning of Numerical Weather Prediction Models: Simultaneous Estimation of Weighting, Smoothing and Physical Parameters 1  
+Abstract: In recent years, case-based reasoning has been demonstrated to be highly useful for problem solving in complex domains. Also, mixed paradigm approaches emerged for combining CBR and induction techniques aiming at verifying the knowledge and/or building an efficient case memory. However, in complex domains induction over the whole problem space is often not possible or too time consuming.
+Paper 4  Title: Massively Parallel Case-Based Reasoning with Probabilistic Similarity Metrics  
+Abstract: We propose a probabilistic case-space metric for the case matching and case adaptation tasks. Central to our approach is a probability propagation algorithm adopted from Bayesian reasoning systems, which allows our case-based reasoning system to perform theoretically sound probabilistic reasoning. The same probability propagation mechanism actually offers a uniform solution to both the c
+Label: Probabilistic Methods
+Paper 5  Title: FONN: Combining First Order Logic with Connectionist Learning  
+Abstract: This paper presents a neural network architecture that can manage structured data and refine knowledge bases expressed in a first order logic language. The presented framework is well suited to classification problems in which concept de scriptions depend upon numerical features of the data. In fact, the main goal of the neural architecture is that of refining the numerical part of the k
+Paper 6  Title: ADAPtER: an Integrated Diagnostic System Combining Case-Based and Abductive Reasoning  
+Abstract: The aim of this paper is to describe the ADAPtER system, a diagnostic architecture combining case-based reasoning with abductive reasoning and exploiting the adaptation of the solution of old episodes, in order to focus the reasoning process. Domain knowledge is represented via a logical model and basic mechanisms, based on abductive reasoning with consistency constraints, have been defi
+Label: Case Based
+Paper 7  Title: Computation and Psychophysics of Sensorimotor Integration  
+Abstract: In this paper we discuss our approach to learning classification rules from data. We sketch out two modules of our architecture, namely LINNEO + and GAR. LINNEO + , which is a knowledge acquisition tool for ill-structured domains automatically generating classes from examples that incrementally works with an unsupervised strategy. LINNEO + 's output, a representation of the conceptual st
+Paper 8  Title: Lazy Induction Triggered by CBR  
+Abstract: In recent years, case-based reasoning has been demonstrated to be highly useful for problem solving in complex domains. Also, mixed paradigm approaches emerged for combining CBR and induction techniques aiming at verifying the knowledge and/or building an efficient case memory. However, in complex domains induction over the whole problem space is often not possible or too time consuming.
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Probabilistic Methods
+
+Probabilistic Methods
+Prediction:  Probabilistic Methods
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 2676...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: Performance of human subjects in a wide variety of early visual processing tasks improves with practice. HyperBF networks (Poggio and Girosi, 1990) constitute a mathematically well-founded framework for understanding such improvement in performance, or perceptual learning, in the class of tasks known as visual hyperacuity. The present article concentrates on two issues raised by the recent psychophysical and computational findings reported in (Poggio et al., 1992b; Fahle and Edelman, 1992). First, we develop a biologically plausible extension of the HyperBF model that takes into account basic features of the functional architecture of early vision. Second, we explore various learning modes that can coexist within the HyperBF framework and focus on two unsupervised learning rules which may be involved in hyperacuity learning. Finally, we report results of psychophysical experiments that are consistent with the hypothesis that activity-dependent presynaptic amplification may be involved in perceptual learning in hyperacuity. 
+Title: Title: Models of perceptual learning in vernier hyperacuity  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: Cortical Mechanisms of Visual Recognition and Learning: A Hierarchical Kalman Filter Model  
+Abstract: We describe a biologically plausible model of dynamic recognition and learning in the visual cortex based on the statistical theory of Kalman filtering from optimal control theory. The model utilizes a hierarchical network whose successive levels implement Kalman filters operating over successively larger spatial and temporal scales. Each hierarchical level in the network predicts the cu
+Paper 3  Title: A Model of Invariant Object Recognition in the Visual System  
+Abstract: Neurons in the ventral stream of the primate visual system exhibit responses to the images of objects which are invariant with respect to natural transformations such as translation, size, and view. Anatomical and neurophysiological evidence suggests that this is achieved through a series of hierarchical processing areas. In an attempt to elucidate the manner in which such representation
+Paper 4  Title: Computational Models of Sensorimotor Integration  Computational Maps and Motor Control.  
+Abstract: The sensorimotor integration system can be viewed as an observer attempting to estimate its own state and the state of the environment by integrating multiple sources of information. We describe a computational framework capturing this notion, and some specific models of integration and adaptation that result from it. Psychophysical results from two sensorimotor systems, subserving the i
+Paper 5  Title: A Neural Network Model of Memory Consolidation  
+Abstract: Some forms of memory rely temporarily on a system of brain structures located in the medial temporal lobe that includes the hippocampus. The recall of recent events is one task that relies crucially on the proper functioning of this system. As the event becomes less recent, the medial temporal lobe becomes less critical to the recall of the event, and the recollection appears to rely mor
+Paper 6  Title: Multiassociative Memory  
+Abstract: This paper discusses the problem of how to implement many-to-many, or multi-associative, mappings within connectionist models. Traditional symbolic approaches wield explicit representation of all alternatives via stored links, or implicitly through enumerative algorithms. Classical pattern association models ignore the issue of generating multiple outputs for a single input pattern, and 
+Paper 7  Title: Implicit learning in 3D object recognition: The importance of temporal context  
+Abstract: A novel architecture and set of learning rules for cortical self-organization is proposed. The model is based on the idea that multiple information channels can modulate one another's plasticity. Features learned from bottom-up information sources can thus be influenced by those learned from contextual pathways, and vice versa. A maximum likelihood cost function allows this scheme to be 
+Label: Neural Networks
+Paper 8  Title: VISIT: An Efficient Computational Model of Human Visual Attention  
+Abstract: One of the challenges for models of cognitive phenomena is the development of efficient and exible interfaces between low level sensory information and high level processes. For visual processing, researchers have long argued that an attentional mechanism is required to perform many of the tasks required by high level vision. This thesis presents VISIT, a connectionist model of covert vi
+Label: Neural Networks
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Processing index 2612...
+Please predict the most appropriate category for the paper. Choose from the following categories:
+
+Rule Learning
+Neural Networks
+Case Based
+Genetic Algorithms
+Theory
+Reinforcement Learning
+Probabilistic Methods
+
+Abstract: Abstract: This paper overviews a proposed architecture for adaptive parallel logic referred to as ASOCS (Adaptive Self-Organizing Concurrent System). The ASOCS approach is based on an adaptive network composed of many simple computing elements which operate in a parallel asynchronous fashion. Problem specification is given to the system by presenting if-then rules in the form of boolean conjunctions. Rules are added incrementally and the system adapts to the changing rule-base. Adaptation and data processing form two separate phases of operation. During processing the system acts as a parallel hardware circuit. The adaptation process is distributed amongst the computing elements and efficiently exploits parallelism. Adaptation is done in a self-organizing fashion and takes place in time linear with the depth of the network. This paper summarizes the overall ASOCS concept and overviews three specific architectures. 
+Title: Title: Models of Parallel Adaptive Logic  
+The following are related papers to this paper, please consider the content of these papers and making a judgment.
+Paper 2  Title: A Self-Adjusting Dynamic Logic Module  
+Abstract: This paper presents an ASOCS (Adaptive Self-Organizing Concurrent System) model for massively parallel processing of incrementally defined rule systems in such areas as adaptive logic, robotics, logical inference, and dynamic control. An ASOCS is an adaptive network composed of many simple computing elements operating asynchronously and in parallel. This paper focuses on Adaptive Algorit
+Paper 3  Title: A Self-Organizing Binary Decision Tree For Incrementally Defined Rule Based  
+Abstract: This paper presents an ASOCS (adaptive self-organizing concurrent system) model for massively parallel processing of incrementally defined rule systems in such areas as adaptive logic, robotics, logical inference, and dynamic control. An ASOCS is an adaptive network composed of many simple computing elements operating asynchronously and in parallel. This paper focuses on adaptive algorit
+Paper 4  Title: Digital Neural Networks  
+Abstract: Demands for applications requiring massive parallelism in symbolic environments have given rebirth to research in models labeled as neura l networks. These models are made up of many simple nodes which are highly interconnected such that computation takes place as data flows amongst the nodes of the network. To present, most models have proposed nodes based on simple analog functions, wh
+Paper 5  Title: ASOCS: A Multilayered Connectionist Network with Guaranteed Learning of Arbitrary Mappings  
+Abstract: This paper reviews features of a new class of multilayer connectionist architectures known as ASOCS (Adaptive Self-Organizing Concurrent Systems). ASOCS is similar to most decision-making neural network models in that it attempts to learn an adaptive set of arbitrary vector mappings. However, it differs dramatically in its mechanisms. ASOCS is based on networks of adaptive digital elemen
+Label: Neural Networks
+Paper 6  Title: Priority ASOCS  ASOCS models have two significant advantages over other learning models:  
+Abstract: This paper presents an ASOCS (Adaptive Self-Organizing Concurrent System) model for massively parallel processing of incrementally defined rule systems in such areas as adaptive logic, robotics, logical inference, and dynamic control. An ASOCS is an adaptive network composed of many simple computing elements operating asynchronously and in parallel. An ASOCS can operate in either a data 
+Paper 7  Title: A VLSI Implementation of a Parallel, Self-Organizing Learning Model  
+Abstract: This paper presents a VLSI implementation of the Priority Adaptive Self-Organizing Concurrent System (PASOCS) learning model that is built using a multi-chip module (MCM) substrate. Many current hardware implementations of neural network learning models are direct implementations of classical neural network structures|a large number of simple computing nodes connected by a dense number o
+Label: Neural Networks
+Paper 8  Title: Massively Parallel Matching of Knowledge Structures  
+Abstract: As knowledge bases used for AI systems increase in size, access to relevant information is the dominant factor in the cost of inference. This is especially true for analogical (or case-based) reasoning, in which the ability of the system to perform inference is dependent on efficient and flexible access to a large base of exemplars (cases) judged likely to be relevant to solving a proble
+Do not give any reasoning or logic for your answer.
+Answer: 
+
+
+
+Ideal_answer: Neural Networks
+
+Neural Networks
+Prediction:  Neural Networks
+Is prediction correct?  True
+
+Prediction: 1
+Accuracy: 0.8
+Wrong indexes: [1759, 474]
+Wrong list: [2, 5]
+Wrong indexes length: 2
